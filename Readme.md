@@ -15,7 +15,7 @@ Concourse in Yahoo! JAPAN ( Fumiya Karasawa, Yahoo! Japan)
  * SpeackerDeck https://speakerdeck.com/fmy/concourse-in-yahoo-japan
 
 LeoFS' CI with Concourse CI ( Yosuke Leo Hara, RIT Rakuten)
- * 
+ * Slides http://www.leo-project.net:8080/public/27bacc34/LeoFS-CI-with-ConcourseCI.pdf
 
 
 
